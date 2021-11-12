@@ -1,0 +1,9 @@
+/* 
+ Jason Exercise: Vacuum Cleaning
+*/
+
+MAS vacuum_cleaning {
+    environment: VCWorld
+    agents: vc;
+}
+
