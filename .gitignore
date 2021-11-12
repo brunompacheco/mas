@@ -26,3 +26,6 @@ tags
 
 # ignore jason installation files
 jason/
+
+# jason project files
+**/bin/
