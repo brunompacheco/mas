@@ -27,5 +27,8 @@ tags
 # ignore jason installation files
 jason/
 
+# ignore JaCaMo repo
+jacamo/
+
 # jason project files
 **/bin/
