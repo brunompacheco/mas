@@ -24,11 +24,14 @@ tags
 
 # End of https://www.toptal.com/developers/gitignore/api/vim
 
-# ignore jason installation files
+# jason installation files
 jason/
-
-# ignore JaCaMo repo
-jacamo/
 
 # jason project files
 **/bin/
+
+# JaCaMo repo
+jacamo/
+
+# MAOP book examples
+maop-code/
