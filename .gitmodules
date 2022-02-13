@@ -1,0 +1,6 @@
+[submodule "japanese-auction"]
+	path = japanese-auction
+	url = https://github.com/brunompacheco/japanese-auction
+[submodule "contractnet-protocol"]
+	path = contractnet-protocol
+	url = https://github.com/brunompacheco/contractnet-protocol
