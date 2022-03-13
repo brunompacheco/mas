@@ -4,3 +4,6 @@
 [submodule "contractnet-protocol"]
 	path = contractnet-protocol
 	url = https://github.com/brunompacheco/contractnet-protocol
+[submodule "gold-miners_MAS"]
+	path = gold-miners_MAS
+	url = https://github.com/AndreCrescenzo/gold-miners_MAS
